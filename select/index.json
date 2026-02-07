@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "にわかには信じがたいものです",
+  "base_artist": "なとり",
+  "createdAt": "2026-02-07T01:22:02.798386Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にわかには信じがたいものです",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_にわかには信じがたいものです_なとり.txt"
+    }
+  ]
+}
